@@ -3,20 +3,8 @@
 This project analyzes personal Netflix data and provides a recommendation engine to suggest top shows. The project is built using Flask for the web interface, pandas for data manipulation, and scikit-surprise for the recommendation engine.
 
 ## Project Structure
-netflix-data-analysis/
-├── data/
-│ ├── (empty initially, will store uploaded NetflixViewingHistory.csv files)
-├── src/
-│ ├── init.py # Initialize the src module
-│ ├── data_preprocessing.py # Functions for loading and preprocessing Netflix data
-│ ├── data_analysis.py # Functions for analyzing and plotting Netflix data
-│ ├── recommendation.py # Functions for building and using the recommendation engine
-├── app.py # Main Flask application
-├── templates/
-│ ├── index.html # HTML template for the file upload page
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Files to ignore in Git
+
+![image](https://github.com/user-attachments/assets/5513302a-38bc-4227-9f62-7b6c8b4bab1f)
 
 
 ## Installation
